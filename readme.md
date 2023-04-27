@@ -1,3 +1,5 @@
 ecran principale rien devant
 
-pion rouge (bleu dans le retour) = 57, 42, 255
+pion bleu = 57, 42, 255
+
+pion rouge = 255, 66, 42

@@ -35,5 +35,5 @@ def couleur_pixel_fenetre(titre, x, y):
 
 
 titre = "A Dance Of Fire And Ice"
-x, y = 378,298
+x, y = 543, 312
 couleur = couleur_pixel_fenetre(titre, x, y)
